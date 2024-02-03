@@ -1,5 +1,4 @@
-# The Snake Game
-
+# 🐍 The Snake Game
 
 https://github.com/noelmathen/Snake-Game---Unity---C-Hash/assets/140234564/5600ec97-c2f4-41e7-b53b-0e82c39586eb
 
