@@ -1,6 +1,9 @@
-# Snake-Game---Unity---C-Hash
-# Snake Game
-https://github.com/noelmathen/Snake-Game---Unity---C-Hash/blob/main/Snake%20Game%202024-02-03%2012-04-02.mp4
+# The Snake Game
+
+
+https://github.com/noelmathen/Snake-Game---Unity---C-Hash/assets/140234564/5600ec97-c2f4-41e7-b53b-0e82c39586eb
+
+
 Snake Game is a classic and addictive 2D arcade game built in Unity, inspired by the popular snake games of the past. Players control a snake, guiding it around the game area to collect food and grow longer. However, they must be careful not to collide with obstacles or the snake's own tail, as doing so will end the game.
 
 ## Gameplay Overview
